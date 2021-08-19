@@ -73,7 +73,7 @@ for week in weeks:
         # print(type(it.get_text().strip().splitlines()))
         lecName = it.get_text().strip().splitlines()[0].replace(',', ' ')     # name
         lecDur = it.get_text().strip().splitlines()[2]      # duration
-        lecLink = it.find('a',attrs={'href': re.compile("^#/lecture")}).get('href')
+        lecLink = "https://hello.iitk.ac.in/mth102aa2021/"+it.find('a',attrs={'href': re.compile("^#/lecture")}).get('href')
         # print(weekNum, lecTitle, lecName, lecDur, lecLink)
         text = f"{i},{weekNum},{lecTitle},{lecName},{lecDur},{lecLink}\n"
         f.writelines(text)

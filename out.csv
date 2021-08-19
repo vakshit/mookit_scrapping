@@ -1,0 +1,86 @@
+Serial No.,Week No.,Lecture Topic,Lecture Name,Lecture Duration,Lecture Video Link
+1,Week 0,Introduction,Overview of linear algebra,15:00,#/lecture/19
+2,Week 0,Introduction,First Course Handout,00:00,#/lecture/65
+3,Week 1,Linear Algebra,Lecture 1 part A,26:32,#/lecture/5
+4,Week 1,Linear Algebra,Lecture 1 part B,24:52,#/lecture/6
+5,Week 1,Linear Algebra,Lecture 2 part A,17:00,#/lecture/7
+6,Week 1,Linear Algebra,Lecture 2 part B,23:00,#/lecture/8
+7,Week 1,Linear Algebra,Assignment-1,00:00,#/lecture/17
+8,Week 1,Linear Algebra,Assignment1 discussion-part A,20:39,#/lecture/13
+9,Week 1,Linear Algebra,Assignment1 discussion -part B,30:00,#/lecture/14
+10,Week 2,Linear Algebra,Lecture 3 part A,24:00,#/lecture/9
+11,Week 2,Linear Algebra,Lecture 3 part B,22:43,#/lecture/10
+12,Week 2,Linear Algebra,Lecture 4 part A,23:00,#/lecture/11
+13,Week 2,Linear Algebra,Lecture 4 part B,29:00,#/lecture/12
+14,Week 2,Linear Algebra,Assignment-2,00:00,#/lecture/18
+15,Week 2,Linear Algebra,Assignment2 discussion-part A,29:56,#/lecture/15
+16,Week 2,Linear Algebra,Assignment2 discussion -part B,19:29,#/lecture/16
+17,Week 3,Linear Algebra,Lecture 5 part A,27:24,#/lecture/20
+18,Week 3,Linear Algebra,Lecture 5 Part B,21:30,#/lecture/21
+19,Week 3,Linear Algebra,Lecture 6 Part A,22:30,#/lecture/22
+20,Week 3,Linear Algebra,Lecture 6 Part B,25:25,#/lecture/23
+21,Week 3,Linear Algebra,Lecture 7 Part A,19:35,#/lecture/24
+22,Week 3,Linear Algebra,Lecture 7 Part B,19:50,#/lecture/25
+23,Week 3,Linear Algebra,Assignment 3,00:00,#/lecture/60
+24,Week 3,Linear Algebra,Assignment 3 discussion-part A,26:00,#/lecture/62
+25,Week 3,Linear Algebra,Assignment-3 discussion Part B,30:00,#/lecture/63
+26,Week 4,Linear Algebra,Lecture 8 Part A,23:30,#/lecture/26
+27,Week 4,Linear Algebra,Lecture 8 Part B,28:30,#/lecture/27
+28,Week 4,Linear Algebra,Lecture 9 Part A,22:05,#/lecture/28
+29,Week 4,Linear Algebra,Lecture 9 Part B,21:17,#/lecture/29
+30,Week 4,Linear Algebra,Lecture 10 Part A,29:49,#/lecture/30
+31,Week 4,Linear Algebra,Lecture 10 Part B,39:00,#/lecture/107
+32,Week 4,Linear Algebra,Assignment 4,00:00,#/lecture/100
+33,Week 4,Linear Algebra,Assignment4 discussion-part A,32:00,#/lecture/103
+34,Week 4,Linear Algebra,Assignment4 discussion -part B,26:00,#/lecture/104
+35,Week 4,Linear Algebra,First Quiz Solutions,00:00,#/lecture/131
+36,week 5,Linear Algebra,Lecture 11 Part A,28:47,#/lecture/32
+37,week 5,Linear Algebra,Assignment 5 discussion-part C,04:00,#/lecture/128
+38,week 5,Linear Algebra,Lecture 11 Part B,30:30,#/lecture/121
+39,week 5,Linear Algebra,Lecture 12 Part A,22:41,#/lecture/34
+40,week 5,Linear Algebra,Lecture 12 Part B,16:14,#/lecture/35
+41,week 5,Linear Algebra,Assignment 5,00:00,#/lecture/109
+42,week 5,Linear Algebra,Assignment 5 discussion-part A,30:00,#/lecture/126
+43,week 5,Linear Algebra,Assignment5- discussion part B,27:00,#/lecture/127
+44,Week 6,Linear Algebra,Lecture 13 Part A,25:46,#/lecture/36
+45,Week 6,Linear Algebra,Lecture 13 Part B,20:59,#/lecture/37
+46,Week 6,Linear Algebra,Lecture 14 Part A,25:29,#/lecture/38
+47,Week 6,Linear Algebra,Lecture 14 Part B,28:30,#/lecture/39
+48,Week 6,Linear Algebra,Lecture 15 Part A,24:09,#/lecture/111
+49,Week 6,Linear Algebra,Lecture 15 Part B,24:00,#/lecture/133
+50,Week 6,Linear Algebra,Assignment 6,00:00,#/lecture/125
+51,Week 6,Linear Algebra,Assignment 6 Discussion Part B,17:00,#/lecture/130
+52,Week 6,Linear Algebra,Assignment 6 Discussion Part A,27:00,#/lecture/129
+53,Week 6,Linear Algebra,mid sem subjective solutions,00:00,#/lecture/172
+54,Week 6,Linear Algebra,mid sem objective solutions,00:00,#/lecture/173
+55,Week 7,Linear Algebra,Lecture 16 Part A,29:00,#/lecture/136
+56,Week 7,Linear Algebra,Lecture 16 Part B,30:00,#/lecture/140
+57,Week 7,Linear Algebra,Assignment 7,00:00,#/lecture/171
+58,Week 9,Linear Algebra,Lecture 17 Part A,29:00,#/lecture/174
+59,Week 9,Linear Algebra,Lecture 17 Part B,26:00,#/lecture/177
+60,Week 9,Linear Algebra,Lecture 18 Part A,25:00,#/lecture/182
+61,Week 9,Linear Algebra,Lecture 18 Part B,29:00,#/lecture/180
+62,Week 9,Linear Algebra,Assignment 7 discussion-part A,30:00,#/lecture/184
+63,Week 9,Linear Algebra,Assignment 7 discussion-part B,20:00,#/lecture/186
+64,Week 9,Linear Algebra,Lecture-19: Definition  Order and Linearity of ODE,50:09,#/lecture/192
+65,Week 10,ODE,Lecture-20: Notion of Solution  Initial and Boun...,1 : 09:44,#/lecture/193
+66,Week 10,ODE,Lecture-21: Picard's Iteration and Total Differe...,55:53,#/lecture/194
+67,Week 10,ODE,Assignment-08: Instructor's Part,59:35,#/lecture/195
+68,Week 11,ODE,Lecture-22: Separable and Homogeneous ODE,31:03,#/lecture/205
+69,Week 11,ODE,Lecture-23: Exact ODE and Integrating Factor,48:04,#/lecture/206
+70,Week 11,ODE,Lecture-24: First Order Linear  Bernoulli and Mo...,50:32,#/lecture/207
+71,Week 11,ODE,Assignment-09: Instructor's part,1 : 16:14,#/lecture/209
+72,Week 12,ODE,Lecture-25: Method of Isoclines  Oblique and Ort...,44:33,#/lecture/210
+73,Week 12,ODE,Lecture-26: Higher Order (Linear) ODE and Dimens...,1 : 04:03,#/lecture/211
+74,Week 12,ODE,Lecture-27: Linear Independence of Solutions Vs ...,51:29,#/lecture/212
+75,Week 12,ODE,Assignment-10: Instructor's part,1 : 36:32,#/lecture/215
+76,Week 13,ODE,Lecture-28: Linear Homogeneous and Constant Coef...,55:05,#/lecture/222
+77,Week 13,ODE,Lecture29-30: Linear Inhomogeneous ODE with Cons...,1 : 23:55,#/lecture/233
+78,Week 13,ODE,Assignment-11: Instructor's part,1 : 01:34,#/lecture/235
+79,Week 14,ODE,Lecture-31: Linear Variable Coefficients:Method ...,41:31,#/lecture/266
+80,Week 14,ODE,Lecture-32: Method of Power Series: Ordinary and...,41:15,#/lecture/267
+81,Week 14,ODE,Lecture-33-34: Regular Singular Point  Frobenius...,1 : 02:56,#/lecture/268
+82,Week 14,ODE,Assignment-12: Instructor's part,36:45,#/lecture/269
+83,Week 15,ODE,Lecture-35: Laplace Transform: Definition and Ex...,56:17,#/lecture/272
+84,Week 15,ODE,Lecture-36: Properties and Application of Laplac...,1 : 01:58,#/lecture/273
+85,Week 15,ODE,Assignment-13: Instructor's part,58:46,#/lecture/275

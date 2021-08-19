@@ -1,5 +1,4 @@
 from selenium import webdriver
-import csv
 import yaml
 from bs4 import BeautifulSoup
 import re
